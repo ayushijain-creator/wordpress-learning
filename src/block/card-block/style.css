@@ -1,0 +1,12 @@
+.wp-block-brad-border-box {
+    border: 1px solid ;
+    border-radius: 5px;
+}
+.wp-block-brad-border-box .img-wrapper {
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.wp-block-brad-border-box .card-details {
+    padding: 0px;
+    margin: 12px;
+}

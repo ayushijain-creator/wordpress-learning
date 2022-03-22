@@ -1,0 +1,17 @@
+.wp-block-brad-border-box {
+    border: 1px solid ;
+    border-radius: 5px;
+    width: 340px;
+}
+.wp-block-brad-border-box .heading {
+    font-size: 24px;
+    padding: 10px;
+}
+.wp-block-brad-border-box .media-upload-btn {
+    padding: 50px;
+    text-align: center;
+    background-color: aliceblue;
+}
+.wp-block-brad-border-box .card-description {
+    padding: 10px;
+}
