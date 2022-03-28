@@ -12,4 +12,6 @@
 import './block/block.js';
 import './block/card-block/index.js';
 import './block/custom-block/index.js';
+import './block/insectors/index.js';
+import './block/insector-block/index.js';
 
